@@ -1,25 +1,23 @@
 # CNM Agency
-
-**Agence de création web** 
-
-Nous concevons et développons des produits digitaux pour les startups, PME et entrepreneurs porteurs de projets ambitieux. 
-Du premier wireframe au déploiement en production, nous maîtrisons l'ensemble de la chaîne technique.
+**Web creation agency**
+We design and build digital products for startups, SMEs, and entrepreneurs with ambitious projects.
+From the first wireframe to production deployment, we own the full technical stack.
 
 ---
 
-## Ce que nous construisons
+## What we build
 
-| Domaine | Détails |
+| Domain | Details |
 |---|---|
-| 🌐 **Sites web** | Vitrines, landing pages, sites institutionnels |
-| 🛒 **E-commerce** | Boutiques sur mesure, commerce headless |
-| ⚙️ **SaaS & Web Apps** | Produits complexes, dashboards, back-offices |
-| 📱 **Applications mobiles** | iOS & Android, React Native / Flutter |
-| 🤖 **Automatisations** | Automatisation de workflows, intégrations API, scraping |
+| 🌐 **Websites** | Showcases, landing pages, institutional sites |
+| 🛒 **E-commerce** | Custom stores, headless commerce |
+| ⚙️ **SaaS & Web Apps** | Complex products, dashboards, back-offices |
+| 📱 **Mobile Apps** | iOS & Android, React Native / Flutter |
+| 🤖 **Automations** | Workflow automation, API integrations, scraping |
 
 ---
 
-## Stack technique
+## Tech stack
 
 **Frontend**
 `React` `Next.js` `TypeScript` `Tailwind CSS` `Flutter`
@@ -30,28 +28,27 @@ Du premier wireframe au déploiement en production, nous maîtrisons l'ensemble 
 **Infrastructure**
 `Vercel` `AWS` `Docker` `GitHub Actions` `Supabase`
 
-**Automatisation**
-`scripts sur mesure`
+**Automation**
+`custom scripts`
 
 ---
 
-## Notre façon de travailler
+## How we work
 
-- **La qualité du code avant tout** — chaque repo est livré avec du linting, du formatage et des pipelines CI/CD
-- **Protection des branches** — `main` est toujours prêt pour la production, toute modification passe par une PR reviewée
-- **Documentation** — chaque projet inclut un README clair, un guide de configuration et un guide de déploiement
-- **Accès client** — les clients ont un accès en lecture à leur propre dépôt, avec une remise complète en fin de projet
+- **Code quality first** — every repo is delivered with linting, formatting, and CI/CD pipelines
+- **Branch protection** — `main` is always production-ready, all changes go through a reviewed PR
+- **Documentation** — every project includes a clear README, setup guide, and deployment guide
+- **Client access** — clients get read access to their own repository, with full handoff at project end
 
 ---
 
-## Travailler avec nous
+## Work with us
 
-Nous prenons en charge des projets où le défi technique est à la hauteur de nos ambitions.
+We take on projects where the technical challenge matches our ambition.
 
 📩 **contact@cnm-agency.com**
 🌍 **www.cnm-agency.com**
 
-> *Vous avez un projet ? Contactez-nous avec votre brief et nous revenons vers vous sous 24h.*
+> *Have a project? Reach out with your brief and we'll get back to you within 24h.*
 
 ---
-
