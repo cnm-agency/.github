@@ -47,7 +47,7 @@ From the first wireframe to production deployment, we own the full technical sta
 We take on projects where the technical challenge matches our ambition.
 
 📩 **contact@cnm-agency.com**
-🌍 **www.cnm.agency.com**
+🌍 **https://cnm.agency**
 
 > *Have a project? Reach out with your brief and we'll get back to you within 24h.*
 
