@@ -26,7 +26,7 @@ From the first wireframe to production deployment, we own the full technical sta
 `Node.js` `Python` `REST` `GraphQL` `PostgreSQL` `MongoDB`
 
 **Infrastructure**
-`Vercel` `AWS` `Docker` `GitHub Actions` `Supabase`
+`Vercel` `AWS` `Docker` `Supabase`
 
 **Automation**
 `custom scripts`
@@ -47,7 +47,7 @@ From the first wireframe to production deployment, we own the full technical sta
 We take on projects where the technical challenge matches our ambition.
 
 📩 **contact@cnm-agency.com**
-🌍 **www.cnm-agency.com**
+🌍 **www.cnm.agency.com**
 
 > *Have a project? Reach out with your brief and we'll get back to you within 24h.*
 
